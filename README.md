@@ -1,7 +1,6 @@
-# INFO2950
-Fall 2021 INFO 2950 Project: jzy7, fkd6, swz8
+# INFO2950: 🌃 Exploring Airbnbs in New York City
+Fall 2021 (jzy7, fkd6, swz8)
 
-#🌃 Exploring Airbnbs in New York City
 
 One of the top tourist destinations in the United States is New York, New York. From the bustling energy of Times Square to the Statue of Liberty’s iconic silhouette to Central Park’s lush greenery, New York City promises entertainment to guests of all ages and interests. As such, the tourism industry in New York City is immense. Prior to the coronavirus pandemic, NYC saw a record-breaking ten year period of growth in tourism, culminating in a total of 66.6 million visitors in 2019 ([Office of the New York State Controller](https://www.osc.state.ny.us/reports/osdc/tourism-industry-new-york-city)).  A crucial part of the tourism industry is the hotel industry - with such a large influx of visitors, there must be adequate lodging to support them. This can be a particular challenge for New York City, which is already densely populated and has limited physical space for expansion. As tourism continues to increase, alternative forms of housing are growing in popularity, including pod hotels, hostels, and renting individually hosted properties.
     
